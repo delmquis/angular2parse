@@ -5,12 +5,12 @@
   "license": "MIT",
   "description": "Fork of articode repo for Angular v19",
   "bugs": {
-    "url": "https://github.com/AuScope/angular2parse/issues"
+    "url": "https://github.com/delmquis/angular2parse/issues"
   },
-  "homepage": "https://github.com/AuScope/angular2parse#readme",
+  "homepage": "https://github.com/delmquis/angular2parse#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AuScope/angular2parse.git"
+    "url": "git+https://github.com/delmquis/angular2parse.git"
   },
   "scripts": {
     "ng": "ng",
